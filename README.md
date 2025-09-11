@@ -2,7 +2,7 @@
 Arenosa imprinting resource <br />    Manuscript with data files 2025
 
 
-Full MS available here: [Manuscript] (https://github.com/PaulGrini/Hornslien_A_arenosa_imprinting/blob/main/Hornslien%20et%20al-Manuscript.pdf) <br />
+Full MS available here: [Manuscript](https://github.com/PaulGrini/Hornslien_A_arenosa_imprinting/blob/main/Hornslien_etal-Manuscript.pdf) <br />
 
 [GitHub Pages](https://pages.github.com/)
 
