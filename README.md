@@ -1,6 +1,6 @@
 # A_arenosa_imprinting - Hornslien et al.  <br> 
 <b>Identification of parent-of-origin specific allelic expression in outbreeding Arabidopsis arenosa species unravels antagonistic parental enrichment in protein degradation pathways </b>
- <br />  <br>  
+  
  Karina S. Hornslien1,3, Katrine N. Bjerkan1, Anders K. Krabberød1, Jason R. Miller2, and Paul E. Grini1,3
  <br> <br>
 1 Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, 0316 Oslo, Norway
