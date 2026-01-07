@@ -1,0 +1,9 @@
+Cross	Mat	Pat	MatMult	Replicate	Norm
+MxS	MM	SS	0.5	MxS_BR1.tsv	1.21196
+MxS	MM	SS	0.5	MxS_BR2.tsv	1.23835
+MxS	MM	SS	0.5	MxS_BR3.tsv	0.83343
+MxS	MM	SS	0.5	MxS_BR4.tsv	0.85653
+SxM	SS	MM	0.5	SxM_BR1.tsv	0.93166
+SxM	SS	MM	0.5	SxM_BR2.tsv	0.93334
+SxM	SS	MM	0.5	SxM_BR3.tsv	1.04717
+SxM	SS	MM	0.5	SxM_BR4.tsv	1.11077
