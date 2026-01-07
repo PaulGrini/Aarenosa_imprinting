@@ -1,0 +1,9 @@
+FilterSample	FilterRep	FilterParent	Library	SeqDate	Parent	Stage	RepName	SeqName	CountsFilename
+1	1	SxS	x	2023	SxS_BR1	none	BR1	SxS_BR1	SxS_BR1.tsv
+1	2	SxS	x	2023	SxS_BR2	none	BR2	SxS_BR2	SxS_BR2.tsv
+1	3	SxS	x	2023	SxS_BR3	none	BR3	SxS_BR3	SxS_BR3.tsv
+1	4	SxS	x	2023	SxS_BR4	none	BR4	SxS_BR4	SxS_BR4.tsv
+2	1	MxM	x	2023	MxM_BR1	none	BR1	MxM_BR1	MxM_BR1.tsv
+2	2	MxM	x	2023	MxM_BR2	none	BR2	MxM_BR2	MxM_BR2.tsv
+2	3	MxM	x	2023	MxM_BR3	none	BR3	MxM_BR3	MxM_BR3.tsv
+2	4	MxM	x	2023	MxM_BR4	none	BR4	MxM_BR4	MxM_BR4.tsv
