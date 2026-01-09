@@ -15,5 +15,4 @@ DISCLAIMER: For reviewing purposes only. This repository is under construction.
 
 
 
-Full MS available here: [Manuscript](https://github.com/PaulGrini/Hornslien_A_arenosa_imprinting/blob/main/Hornslien_etal-Manuscript.pdf) <br />
 
