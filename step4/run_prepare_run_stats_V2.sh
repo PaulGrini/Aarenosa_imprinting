@@ -45,7 +45,7 @@ echo
 echo filter
 function filter() {
     echo "Filter $1 with gene list $2"
-    # For Yuri, here we filtered out plastid genes by ATM and ATC IDs.
+    # Here we can filter out plastid genes by ATM and ATC IDs.
     # Otherwise, just filter by counts.
     ${p} ${s}/apply_filter_to_counts.py ${2} ${1} > ${1}.filtered
     echo "Statistics $1"
