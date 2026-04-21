@@ -3,7 +3,7 @@
 
 DISCLAIMER: For reviewing purposes only. This repository is under construction.
 
- Karina S. Hornslien1,3, Katrine N. Bjerkan1, Anders K. Krabberød1, Jason R. Miller2, and Paul E. Grini1,3
+ Karina S. Hornslien1,3, Ida V. Myking1, Katrine N. Bjerkan1, Anders K. Krabberød1, Jason R. Miller2, and Paul E. Grini1,3
  <br> <br>
 1 Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, 0316 Oslo, Norway
 <br>
