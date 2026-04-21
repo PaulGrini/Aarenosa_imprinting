@@ -2,4 +2,4 @@
 R scripts for GO terms analysis.
 
 * ClusterProfiler_GO-Enrichment_PEGs.R
-* Custom-GO_Fisher_arenosa.R
+* Fisher_GO-enrichment_arenosa.R
